@@ -131,9 +131,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cgi.cpp" />
     <ClCompile Include="TreeSortByMarks.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="tree.h" />
   </ItemGroup>

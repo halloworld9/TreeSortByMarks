@@ -1,5 +1,4 @@
-﻿
-#pragma once
+﻿#pragma once
 
 template <typename T>
 struct queue_elem
